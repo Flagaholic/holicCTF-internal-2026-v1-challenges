@@ -2,6 +2,14 @@
 
 Official challenge archive for (internal) holicCTF 2026.
 
+## [Disclaimer - 3 challenges](disclaimer/)
+
+| Name | Author | Stars | Solves | Rating |
+| --- | --- | --- | ---: | --- |
+| [Welcome](disclaimer/welcome/) | HolicCTF Team | 0 (intro chall) | 24 | - |
+| [Rules](disclaimer/rules/) | HolicCTF Team | 0 (intro chall) | 24 | - |
+| [Author Disclaimer](disclaimer/author-disclaimer/) | HolicCTF Team | 0 (intro chall) | 24 | - |
+
 ## [Cryptography - 10 challenges](crypto/)
 
 | Name | Author | Stars | Solves | Rating |
@@ -72,10 +80,11 @@ Official challenge archive for (internal) holicCTF 2026.
 | [1000 ciphers](misc/1000-ciphers/) | Laggy | ★★★★ | 6 | 8.0/10.0 (4) |
 | [rrrollback](misc/rrrollback/) | pavel | ★★★★ | 4 | 8.0/10.0 (3) |
 
-## [NSFW - 3 challenges](nsfw/)
+## [NSFW - 4 challenges](nsfw/)
 
 | Name | Author | Stars | Solves | Rating |
 | --- | --- | --- | ---: | --- |
+| [Disclaimer](nsfw/disclaimer/) | HolicCTF Team | 0 (intro chall) | 18 | - |
 | [temu onlyfans](nsfw/temu-onlyfans/) | youstube | ★★★ | 5 | 9.0/10.0 (2) |
 | [law > morality](nsfw/law-morality/) | youstube | ★★★★ | 5 | 9.5/10.0 (4) |
 | [faked](nsfw/faked/) | youstube | ★★★★★ | 2 | 6.0/10.0 (2) |
