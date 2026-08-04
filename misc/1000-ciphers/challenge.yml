@@ -1,0 +1,12 @@
+id: 43
+name: 1000 ciphers
+category: Misc
+author: Laggy
+value: 400
+type: standard
+solves: 6
+rating_average: 8.0
+rating_count: 4
+description: To protect the flag, I wrapped the flag with 1000 ciphers. Have fun :))))
+files:
+- encrypted.bin

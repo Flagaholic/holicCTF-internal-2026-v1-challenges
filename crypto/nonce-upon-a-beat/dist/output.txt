@@ -1,0 +1,23 @@
+{
+  "curve": "secp256k1",
+  "public_key": {
+    "x": "0x492aa0f65fb8a12060afe9c5000d454790a018eed3c4edd8765937f21a886920",
+    "y": "0x7a0954a8bf9becc25e9ab63d92add98dd0f188f42d9e3eab583149b1f94f6e65"
+  },
+  "tracks": [
+    {
+      "message": "track=midnight_modulus.wav|artist=DJ Curve|bpm=128|bar=64",
+      "r": "0x3e86a256cf704732b22ef64bf5af5affc65bfe0c7bc1fb21f2dce417de76617c",
+      "s": "0x8eeaf9f8514fe2ad271df9dbeb64c35c5b5b534404fb2d7dfc8c0f89d7e7d867"
+    },
+    {
+      "message": "track=elliptic_echoes.wav|artist=DJ Curve|bpm=128|bar=71",
+      "r": "0x3e86a256cf704732b22ef64bf5af5affc65bfe0c7bc1fb21f2dce417de76617c",
+      "s": "0x39d49b2a4bfe572a05219d7af5bfd65f07a990c35b3ce98af1e69b60dbd74ae7"
+    }
+  ],
+  "encore": {
+    "iv": "90d7051f260609ca8e82759a8f5eb177",
+    "ciphertext": "62423d46b42a3f97f8f187526c22dcefe8c93f56e9044c03003e6c56a95def32"
+  }
+}

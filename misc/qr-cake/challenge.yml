@@ -1,0 +1,12 @@
+id: 64
+name: Qr cake
+category: Misc
+author: b34rn00b
+value: 200
+type: standard
+solves: 5
+rating_average: 8.6
+rating_count: 5
+description: "Bear made a cake and made it pieces .  \nBut he hid some secrets within it . can you find it?"
+files:
+- pieces.zip

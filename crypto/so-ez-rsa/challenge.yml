@@ -1,0 +1,12 @@
+id: 28
+name: SO EZ RSA
+category: Crypto
+author: xzhiyouu
+value: 300
+type: standard
+solves: 7
+rating_average: 7.4
+rating_count: 5
+description: ezez :)
+files:
+- chal.py

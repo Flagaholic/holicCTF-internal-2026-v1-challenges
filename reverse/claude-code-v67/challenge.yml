@@ -1,0 +1,12 @@
+id: 41
+name: Claude Code v67
+category: Reverse
+author: SISUBENY_
+value: 500
+type: standard
+solves: 2
+rating_average: 9.0
+rating_count: 2
+description: Anthropic just released their latest coding tool Claude code v67! Have a look!
+files:
+- claude-code.js

@@ -1,0 +1,33 @@
+id: 53
+name: normalized lies
+category: Crypto
+author: pavel
+value: 500
+type: dynamic_docker
+solves: 1
+rating_average: 9.0
+rating_count: 1
+description: 'The release gate verifies an Ed25519-signed Git commit and confirms that its normalized object hash is included in a transparency log. After verification, stock Git checks out the same submitted object and executes release/manifest.json.
+
+
+  The attached release is valid but unprivileged.
+
+
+  Submit one base64-encoded, zlib-compressed loose Git commit object that keeps the trusted signature and transparency proof valid while making the deployment worker enter privileged diagnostics.
+
+
+  Transport format:
+
+
+  `base64(zlib("commit " + decimal_length + NUL + raw_commit_body))`
+
+
+  Connection:'
+files:
+- normalized_lies.tar.gz
+instance:
+  kind: dynamic_docker
+  redirect_type: direct
+  redirect_port: 1337
+  memory_limit: 256m
+  cpu_limit: 0.5

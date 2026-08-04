@@ -1,0 +1,18 @@
+id: 25
+name: OpenMyFlagGate
+category: Misc
+author: Taokyle
+value: 400
+type: dynamic_docker
+solves: 2
+rating_average: 10.0
+rating_count: 1
+description: OhMyFkinGod its a revenge, but not really cuz tbh idk which is harder
+files:
+- handout.zip
+instance:
+  kind: dynamic_docker
+  redirect_type: direct
+  redirect_port: 1337
+  memory_limit: 256m
+  cpu_limit: 0.5

@@ -1,0 +1,18 @@
+id: 24
+name: Open my Gate
+category: Misc
+author: Taokyle
+value: 400
+type: dynamic_docker
+solves: 1
+rating_average: 3.0
+rating_count: 1
+description: not so ez jail now
+files:
+- OMG.zip
+instance:
+  kind: dynamic_docker
+  redirect_type: direct
+  redirect_port: 1337
+  memory_limit: 256m
+  cpu_limit: 0.5

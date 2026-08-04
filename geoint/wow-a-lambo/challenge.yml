@@ -1,0 +1,16 @@
+id: 48
+name: WoW A Lambo
+category: GEOINT
+author: xzhiyouu
+value: 400
+type: geo
+solves: 1
+rating_average: null
+rating_count: 0
+description: WoW~ There is a Lambo. Where is it?
+files:
+- lambo.jpg
+geo:
+  latitude: 35.5019611052
+  longitude: 139.7671370208
+  tolerance_radius: 5.0

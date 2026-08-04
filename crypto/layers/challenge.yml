@@ -1,0 +1,15 @@
+id: 65
+name: Layers
+category: Crypto
+author: multiflora_rose
+value: 400
+type: standard
+solves: 1
+rating_average: 9.0
+rating_count: 1
+description: 'Hidden image, or perhaps color
+
+
+  note : flag_in_lowercase_with_underscores'
+files:
+- hidden_color.zip

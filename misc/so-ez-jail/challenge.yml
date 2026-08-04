@@ -1,0 +1,14 @@
+id: 22
+name: SO EZ JAIL
+category: Misc
+author: xzhiyouu
+value: 300
+type: standard
+solves: 9
+rating_average: 8.57
+rating_count: 7
+description: 'Flag in `./flag.txt`
+
+
+  `nc 23.146.248.199 30000`'
+files: []

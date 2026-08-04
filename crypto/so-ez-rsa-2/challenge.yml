@@ -1,0 +1,12 @@
+id: 57
+name: SO EZ RSA-2
+category: Crypto
+author: xzhiyouu
+value: 300
+type: standard
+solves: 2
+rating_average: 9.0
+rating_count: 2
+description: This is so ez rsa 2
+files:
+- chal.py

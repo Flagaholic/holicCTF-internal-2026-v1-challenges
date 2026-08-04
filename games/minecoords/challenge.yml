@@ -1,0 +1,18 @@
+id: 20
+name: MineCoords
+category: Games
+author: Laggy
+value: 500
+type: standard
+solves: 1
+rating_average: 10.0
+rating_count: 1
+description: 'On a random Discord server, A dumb kid posted an image of his stash on **Doughnut SMP** 🔥. Can you find the coordinates of his stash ~~and grief his base~~?
+
+
+  The XZ coordinates are within (-225000, 225000).
+
+
+  The flag is the coordinates of the target block, e.g. `holic{123456,-30,-6767}`.'
+files:
+- challenge.png

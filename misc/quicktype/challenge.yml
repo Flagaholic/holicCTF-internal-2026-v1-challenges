@@ -1,0 +1,15 @@
+id: 15
+name: quicktype
+category: Misc
+author: youstube
+value: 200
+type: standard
+solves: 8
+rating_average: 7.33
+rating_count: 6
+description: '"i type quick." he said. just did not realize he ONLY typed quick.
+
+
+  flag is in lowercase.'
+files:
+- ramble.txt

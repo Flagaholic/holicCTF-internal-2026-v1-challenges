@@ -1,0 +1,16 @@
+id: 34
+name: tired day
+category: GEOINT
+author: carz
+value: 500
+type: geo
+solves: 2
+rating_average: 9.0
+rating_count: 1
+description: soo tired, even my hands are shaking:/
+files:
+- tired.jpeg
+geo:
+  latitude: 22.3124532
+  longitude: 114.1776722
+  tolerance_radius: 20.0

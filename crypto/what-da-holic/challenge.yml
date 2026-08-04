@@ -1,0 +1,13 @@
+id: 52
+name: What Da HOLIC
+category: Crypto
+author: pavel
+value: 200
+type: standard
+solves: 7
+rating_average: 7.17
+rating_count: 6
+description: weird ahh rsa chal
+files:
+- chal.py
+- output.txt

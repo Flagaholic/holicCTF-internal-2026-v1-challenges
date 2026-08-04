@@ -1,0 +1,15 @@
+id: 51
+name: i have a friend
+category: GEOINT
+author: j1mmy7351
+value: 400
+type: geo
+solves: 1
+rating_average: 10.0
+rating_count: 1
+description: "this is actually a socint / geosint challenge\r\n\r\nI met a friend on Discord through playing on the largest Minecraft server in Taiwan, Hong Kong, and Macau. He loves calling himself a noob in that discord server—in fact, 'noob' is literally his account name \U0001F480\r\n\r\nLook at his profile carefully! You'll figure out what to do after you find his account."
+files: []
+geo:
+  latitude: 24.8012056288
+  longitude: 120.987098068
+  tolerance_radius: 20.0

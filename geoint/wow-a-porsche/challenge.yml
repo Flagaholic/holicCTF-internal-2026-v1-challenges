@@ -1,0 +1,16 @@
+id: 49
+name: WoW A Porsche
+category: GEOINT
+author: xzhiyouu
+value: 200
+type: geo
+solves: 7
+rating_average: 7.25
+rating_count: 4
+description: "WoW~ There is a Porsche. Where is it?  \nFind the **EXACT** place where the car is."
+files:
+- Porsche.jpg
+geo:
+  latitude: 35.6725121144
+  longitude: 139.7693716376
+  tolerance_radius: 4.0

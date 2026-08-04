@@ -1,0 +1,11 @@
+id: 38
+name: connected
+category: Forensics
+author: Taokyle
+value: 400
+type: standard
+solves: 2
+rating_average: 10.0
+rating_count: 2
+description: "the guy said the flag is somewhere interconnected, what does that mean\r\nhttps://s.stashr.wtf/DO3b9lwf"
+files: []

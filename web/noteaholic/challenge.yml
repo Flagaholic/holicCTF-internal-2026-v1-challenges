@@ -1,0 +1,17 @@
+id: 74
+name: noteaholic
+category: Web
+author: Taokyle
+value: 400
+type: dynamic_docker
+solves: 0
+rating_average: null
+rating_count: 0
+description: "-# this has no correlation with `web/notekeep` btw, its just I thought notetaking app has so many ways to fail\n\noh wow another notetaking website? What could possibly go wrong!!  \n(spoilers: this is 400pts so something did went horribly wrong)"
+files: []
+instance:
+  kind: dynamic_docker
+  redirect_type: http
+  redirect_port: 8080
+  memory_limit: 256m
+  cpu_limit: 0.5

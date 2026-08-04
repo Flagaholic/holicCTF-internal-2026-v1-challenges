@@ -1,0 +1,16 @@
+id: 23
+name: its a boat its a plane
+category: GEOINT
+author: Taokyle
+value: 300
+type: geo
+solves: 1
+rating_average: 8.0
+rating_count: 1
+description: time for some 1/10 rating geosint chall
+files:
+- w_h_a_t.png
+geo:
+  latitude: 22.2625803
+  longitude: 114.3593712
+  tolerance_radius: 100.0

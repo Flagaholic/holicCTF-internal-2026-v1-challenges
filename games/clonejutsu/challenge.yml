@@ -1,0 +1,17 @@
+id: 40
+name: CloneJutsu
+category: Games
+author: youstube
+value: 500
+type: dynamic_docker
+solves: 2
+rating_average: 10.0
+rating_count: 2
+description: "3 pressure plates, 2 lava pool, and 1 persson. \r\n\r\nver. 1.2.5\r\n\r\nFlag is the items at the end, split with `_` and replace spaces with `_` too. Wrap it in holic{...}"
+files: []
+instance:
+  kind: dynamic_docker
+  redirect_type: direct
+  redirect_port: 25565
+  memory_limit: 256m
+  cpu_limit: 0.5

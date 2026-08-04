@@ -1,0 +1,17 @@
+id: 62
+name: nonce upon a beat?!
+category: Crypto
+author: pavel
+value: 300
+type: standard
+solves: 1
+rating_average: null
+rating_count: 0
+description: 'dj curve signs every track before it hits the club. his release pipeline syncs everything to a 16-bar beat grid, and the encrypted encore is supposed to stay private
+
+
+  can you recover the unreleased encore?!'
+files:
+- challenge.py
+- output.txt
+- requirements.txt

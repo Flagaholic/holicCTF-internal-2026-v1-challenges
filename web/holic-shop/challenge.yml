@@ -1,0 +1,17 @@
+id: 37
+name: holic shop
+category: Web
+author: Taokyle
+value: 300
+type: dynamic_docker
+solves: 4
+rating_average: 9.5
+rating_count: 2
+description: "New shop for selling merches to the holics!!!  \nas to why the theme is pink... I dont fucking know Im in charge of the website struct and gemini for the css I think it want some pink or sth"
+files: []
+instance:
+  kind: dynamic_docker
+  redirect_type: http
+  redirect_port: 8080
+  memory_limit: 256m
+  cpu_limit: 0.5

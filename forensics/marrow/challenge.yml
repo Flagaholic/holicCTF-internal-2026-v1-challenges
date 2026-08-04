@@ -1,0 +1,12 @@
+id: 69
+name: marrow
+category: Forensics
+author: multiflora_rose
+value: 100
+type: standard
+solves: 2
+rating_average: 10.0
+rating_count: 2
+description: I zipped up a screenshot of the flag, forgot the password, and then deleted the archive while cleaning my desktop. Only marrow.hash is left. Can you find my flag?
+files:
+- marrow.hash

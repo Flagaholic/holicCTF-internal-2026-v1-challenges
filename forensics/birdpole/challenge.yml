@@ -1,0 +1,16 @@
+id: 8
+name: birdpole
+category: Forensics
+author: youstube
+value: 500
+type: geo
+solves: 7
+rating_average: 9.5
+rating_count: 6
+description: this light pole has a bird on top. find the loc
+files:
+- pole.jpg
+geo:
+  latitude: 22.4504950057
+  longitude: 114.1671388462
+  tolerance_radius: 10.0

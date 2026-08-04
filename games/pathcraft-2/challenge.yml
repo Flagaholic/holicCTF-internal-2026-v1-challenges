@@ -1,0 +1,12 @@
+id: 73
+name: pathcraft 2
+category: Games
+author: youstube
+value: 500
+type: standard
+solves: 1
+rating_average: 7.0
+rating_count: 1
+description: "part 2 of pathcraft\r\n\r\nsame idea, but this time, bottom left is a zombie, and top right is a villager.  \r\nsuppose they have resistance 255 for infinite duration with hide particle to True  \r\nGiven this image and positions of the mobs, find me the path the zombie will take to path find to if it was aggro to the villager, and the total cost of the path (the min g(n) path cost, rounded to 2 dec. ).\r\n\r\nIf the route starts on Smooth Sandstone, and the total cost of the path is 67.69, write your flag as holic{SmoothSandstone_67.69}, margin of error is ± 1.00."
+files:
+- chall2.png

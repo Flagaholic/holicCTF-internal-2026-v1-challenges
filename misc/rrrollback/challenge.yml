@@ -1,0 +1,12 @@
+id: 63
+name: rrrollback
+category: Misc
+author: pavel
+value: 400
+type: standard
+solves: 4
+rating_average: 8.0
+rating_count: 3
+description: "I accidentally committed the flag, but don't worry.  \nI rolled it back, so Git definitely forgot it.\n\nRun ./get_flag.sh for the *totally* legitimate recovery tool."
+files:
+- rrrollback.zip

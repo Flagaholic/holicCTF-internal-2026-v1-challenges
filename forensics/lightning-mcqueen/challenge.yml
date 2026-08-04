@@ -1,0 +1,12 @@
+id: 36
+name: Lightning McQueen!
+category: Forensics
+author: carz
+value: 300
+type: standard
+solves: 2
+rating_average: 6.5
+rating_count: 2
+description: I won a McQueen lego from grad din game:>
+files:
+- holic.7z

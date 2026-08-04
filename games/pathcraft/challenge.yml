@@ -1,0 +1,12 @@
+id: 71
+name: pathcraft
+category: Games
+author: youstube
+value: 300
+type: standard
+solves: 1
+rating_average: 6.0
+rating_count: 2
+description: "the 1st 300pts minecraft chall, but it's still not easy :p\r\n\r\nVersion is 1.21.4  \r\nWe have a creaking bottom left, and a zombie top right. For demonstration purpose, suppose the zombie is a player.\r\n\r\nGiven this image and positions of the mobs, find me the path the creaking will take to path find to if it was aggro to the player (aka zombie), and the total cost of the path (the min g(n) path cost, rounded to 2 dec. ).\r\n\r\nIf the route starts on Smooth Sandstone, and the total cost of the path is 67.69, write your flag as `holic{SmoothSandstone_67.69}`, margin of error is ± 1.00."
+files:
+- chall1.png

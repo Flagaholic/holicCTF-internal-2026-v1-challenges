@@ -1,0 +1,13 @@
+id: 60
+name: awmc
+category: SOCINT
+author: Taokyle
+value: 400
+type: standard
+solves: 1
+rating_average: 8.0
+rating_count: 1
+description: "for those who want TLDR:\r\nthe first 2 paragraphs are **all you need**, 3rd paragraph is **flag format** + 3 examples, \r\n4th is saying you can **open ticket** to make sure ur flag **format is correct**, 5th is disclaimer of telling u **dont be scumbag**\r\n\r\nthe attached photo is a (not so) random maimai player  \r\nApparently he plays maimai (duhh), but he also have a youtube channel, and a discord server\r\n\r\nI've sent an image in his discord server, a score without song name. Now its time for YOU to find out that song name :p\r\n\r\nflag format: `holic{SongNameNoPunctuations&symbolsNoSpacesRomanized_SongLevel}`, keep the capitalization of english letters, all romanized alphabets are lowercase  \r\nFor example if the song is `【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】`, the flag is `holic{touhounicokarahishinmataarafeattamaonsenIOSYS_13.4}`  \r\nOr if the song is `M@GICAL☆CURE! LOVE ♥ SHOT!`, the flag is `holic{MGICALCURELOVESHOT_13.6}`  \r\nOr if the song is `Xaleid◆scopiX`,\
+  \ the flag is `holic{XaleidscopiX_15.0}`\r\n\r\nReason why I specify the format this clearly and that you shouldn't be able to enter the flag wrongly is because you only have 3 attempts (to prevent you from brute-forcing every single songs and every single difficulty). If you are scared your format is wrong, open a ticket, I will verify your format is correct but I won't verify if the song/level is correct\r\n\r\nWARNING: that (not so) random maimai player is indeed a random stranger, do NOT dox him, do NOT harass him, you should NOT contact him. Once you find his discord server, do NOT harass anyone in there, do NOT cause chaos and/or ask for flag (tbh if u ask for flag to ppl there, you cant read :wilted-rose:)  \r\nIf you did anything unethical, illegal, or causing troubles for others, I, this ctf and anyone else involved in this ctf, and the flagaholic team are NOT responsible for your behavior."
+files:
+- maimai.png

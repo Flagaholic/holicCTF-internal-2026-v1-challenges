@@ -1,0 +1,12 @@
+id: 14
+name: fruit shuffle
+category: Crypto
+author: youstube
+value: 100
+type: standard
+solves: 15
+rating_average: 6.69
+rating_count: 13
+description: i love fruits, lemme shuffle them around
+files:
+- dist.py

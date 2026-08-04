@@ -1,0 +1,11 @@
+id: 10
+name: bomb defuser
+category: Games
+author: youstube
+value: 400
+type: standard
+solves: 2
+rating_average: 10.0
+rating_count: 2
+description: "[https://youtu.be/cL4Bt3x-MrU](https://youtu.be/cL4Bt3x-MrU)  \r\nBro I js efm'd 10 password modules with 0 strike, and it was totally 1st try!\r\n\r\nwho tf is this in the comments trying to exposing me \U0001F480  \r\nflag format: `holic{<attempts>_<all_attempted_bomb_serials>}`.  \r\ne.g. `holic{3_A1A1A1_B1B1B1_C1C1C1}`"
+files: []

@@ -1,0 +1,15 @@
+id: 13
+name: berry christmas!
+category: GEOINT
+author: youstube
+value: 200
+type: geo
+solves: 10
+rating_average: 5.22
+rating_count: 9
+description: find where i was sitting in [this photo](https://www.instagram.com/p/CadmCk6PNKI/)
+files: []
+geo:
+  latitude: 22.3573128937
+  longitude: 114.1269858741
+  tolerance_radius: 15.0

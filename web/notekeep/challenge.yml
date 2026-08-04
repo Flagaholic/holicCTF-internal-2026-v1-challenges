@@ -1,0 +1,17 @@
+id: 39
+name: notekeep
+category: Web
+author: Taokyle
+value: 500
+type: dynamic_docker
+solves: 0
+rating_average: null
+rating_count: 0
+description: "Bud say he made a notekeeping app (Im not hiding gemini behind again the css lmfao) and he  likes the site so much he used it to keep note of the most important thing he gotta do, inside his `admin` account. I wonder if I can steal his 11 herbs and spices rq\r\n\r\nyou may need to bruteforce the instance"
+files: []
+instance:
+  kind: dynamic_docker
+  redirect_type: http
+  redirect_port: 8080
+  memory_limit: 256m
+  cpu_limit: 0.5

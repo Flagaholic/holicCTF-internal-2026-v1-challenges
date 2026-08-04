@@ -1,0 +1,18 @@
+id: 6
+name: homoinvestment
+category: Crypto
+author: Taokyle
+value: 300
+type: dynamic_docker
+solves: 4
+rating_average: 4.67
+rating_count: 3
+description: "(300 pts cuz I think its probably sloppable.)   \nThey say you shouldnt get into stocks n stuff but what if u want to be a millionaire?   \nCome be a technically perfectly millionaire millionaire with homo by ur side! (wait that sounds weird)\n\n(unpublished themctf chall fyi :p)"
+files:
+- homoinvestment.zip
+instance:
+  kind: dynamic_docker
+  redirect_type: direct
+  redirect_port: 1337
+  memory_limit: 256m
+  cpu_limit: 0.5

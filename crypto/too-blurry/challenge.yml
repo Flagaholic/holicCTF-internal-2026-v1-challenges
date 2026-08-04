@@ -1,0 +1,14 @@
+id: 21
+name: Too Blurry
+category: Crypto
+author: Laggy
+value: 300
+type: standard
+solves: 4
+rating_average: 8.0
+rating_count: 2
+description: Someone blurred the image containing the flag! Can you unblur it?
+files:
+- blur.py
+- blurred.7z
+- preview.png

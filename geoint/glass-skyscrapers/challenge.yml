@@ -1,0 +1,17 @@
+id: 56
+name: Glass Skyscrapers
+category: GEOINT
+author: thomaswong123
+value: 300
+type: geo
+solves: 2
+rating_average: 8.5
+rating_count: 2
+description: "I just got to this city...   \nwhy are they everywhere... these boring skyscrapers  \nand they are building more???  \nfind where I took these bogos"
+files:
+- glassbuildng.jpg
+- gpdhebtojkpgpdhebt.jpg
+geo:
+  latitude: 53.796896817
+  longitude: -1.5368256288
+  tolerance_radius: 20.0

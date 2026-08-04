@@ -1,0 +1,17 @@
+id: 47
+name: holic shop (reseller)
+category: Web
+author: youstube
+value: 500
+type: dynamic_docker
+solves: 2
+rating_average: 10.0
+rating_count: 1
+description: taokyle website sucks, so im reselling his stuff :>
+files: []
+instance:
+  kind: dynamic_docker
+  redirect_type: http
+  redirect_port: 8080
+  memory_limit: 512m
+  cpu_limit: 1

@@ -1,0 +1,17 @@
+id: 31
+name: REALLY SO UNEZ JAIL
+category: Misc
+author: Taokyle
+value: 400
+type: dynamic_docker
+solves: 6
+rating_average: 8.75
+rating_count: 4
+description: "I forgot a single character so that UNEZ is as ez as a 100pt chall :sob:  \nThis is the real one"
+files: []
+instance:
+  kind: dynamic_docker
+  redirect_type: direct
+  redirect_port: 1337
+  memory_limit: 256m
+  cpu_limit: 0.5

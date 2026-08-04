@@ -1,0 +1,23 @@
+id: 7
+name: pocketmeme
+category: Web
+author: Taokyle
+value: 500
+type: dynamic_docker
+solves: 0
+rating_average: null
+rating_count: 0
+description: '(Im 50% getting sued so please dont leak this chall type shit)
+
+
+  go on an RPG fight with your pocketmeme, defeat the flag and grab yo flag
+
+
+  btw huge shoutout to gemini free for the css, and no I did not forget to attach the source'
+files: []
+instance:
+  kind: dynamic_docker
+  redirect_type: http
+  redirect_port: 8080
+  memory_limit: 256m
+  cpu_limit: 0.5

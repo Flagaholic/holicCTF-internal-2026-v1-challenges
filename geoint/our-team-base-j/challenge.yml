@@ -1,0 +1,16 @@
+id: 42
+name: our team base /j
+category: GEOINT
+author: youstube
+value: 300
+type: geo
+solves: 1
+rating_average: null
+rating_count: 0
+description: leaking our team's secret house
+files:
+- paranoma.jpg
+geo:
+  latitude: 21.0340450223
+  longitude: 105.8159447678
+  tolerance_radius: 25.0

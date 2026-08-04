@@ -1,0 +1,12 @@
+id: 66
+name: ez_chall_for_relax
+category: Misc
+author: multiflora_rose
+value: 100
+type: standard
+solves: 1
+rating_average: null
+rating_count: 0
+description: No brainpower required
+files:
+- challenge.txt

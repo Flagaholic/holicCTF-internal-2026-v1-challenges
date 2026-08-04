@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 6,
+    "name": "homoinvestment",
+    "category": "Crypto",
+    "slug": "crypto/homoinvestment",
+    "author": "Taokyle",
+    "value": 300,
+    "type": "dynamic_docker",
+    "solves": 4,
+    "rating_average": 4.67,
+    "rating_count": 3,
+    "files": [
+      "homoinvestment.zip"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "homoinvestment-2.zip",
+        "sha1sum": "336db8e2df641ddbde9abcb9b580eaf191a0d464"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "babyenc",
+    "category": "Crypto",
+    "slug": "crypto/babyenc",
+    "author": "youstube",
+    "value": 300,
+    "type": "standard",
+    "solves": 4,
+    "rating_average": 5.5,
+    "rating_count": 4,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 14,
+    "name": "fruit shuffle",
+    "category": "Crypto",
+    "slug": "crypto/fruit-shuffle",
+    "author": "youstube",
+    "value": 100,
+    "type": "standard",
+    "solves": 15,
+    "rating_average": 6.69,
+    "rating_count": 13,
+    "files": [
+      "dist.py"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "dist.py",
+        "sha1sum": "f3892967e602475458c57588749540bde805976d"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Too Blurry",
+    "category": "Crypto",
+    "slug": "crypto/too-blurry",
+    "author": "Laggy",
+    "value": 300,
+    "type": "standard",
+    "solves": 4,
+    "rating_average": 8.0,
+    "rating_count": 2,
+    "files": [
+      "blur.py",
+      "blurred.7z",
+      "preview.png"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "preview.png",
+        "sha1sum": "8d584fa56953d8015f5d7cd7d5d7fa39beaa470e"
+      },
+      {
+        "file": "blurred.7z",
+        "sha1sum": "9d52e009d7f6bd4d163fefb69018f1797430c41c"
+      },
+      {
+        "file": "blur.py",
+        "sha1sum": "2ed44357fb4e942c9a19ac4dcb2f3b14425bc4f5"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "SO EZ RSA",
+    "category": "Crypto",
+    "slug": "crypto/so-ez-rsa",
+    "author": "xzhiyouu",
+    "value": 300,
+    "type": "standard",
+    "solves": 7,
+    "rating_average": 7.4,
+    "rating_count": 5,
+    "files": [
+      "chal.py"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "chal.py",
+        "sha1sum": "1d80b8a97000cb870a70c33d900beb28c8b049c3"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "What Da HOLIC",
+    "category": "Crypto",
+    "slug": "crypto/what-da-holic",
+    "author": "pavel",
+    "value": 200,
+    "type": "standard",
+    "solves": 7,
+    "rating_average": 7.17,
+    "rating_count": 6,
+    "files": [
+      "chal.py",
+      "output.txt"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "chal.py",
+        "sha1sum": "8e2da4cbe7aea31e23c2c3a75fb98ee1d3265fb9"
+      },
+      {
+        "file": "output.txt",
+        "sha1sum": "c2f0581c6254cd903e970ba09121f22b1f5a2b56"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "normalized lies",
+    "category": "Crypto",
+    "slug": "crypto/normalized-lies",
+    "author": "pavel",
+    "value": 500,
+    "type": "dynamic_docker",
+    "solves": 1,
+    "rating_average": 9.0,
+    "rating_count": 1,
+    "files": [
+      "normalized_lies.tar.gz"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "normalized_lies.tar-2.gz",
+        "sha1sum": "43634488ff975f957c09448b505c842c1e3c0536"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "SO EZ RSA-2",
+    "category": "Crypto",
+    "slug": "crypto/so-ez-rsa-2",
+    "author": "xzhiyouu",
+    "value": 300,
+    "type": "standard",
+    "solves": 2,
+    "rating_average": 9.0,
+    "rating_count": 2,
+    "files": [
+      "chal.py"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "chal.py",
+        "sha1sum": "ba40ab102fa2ae804de891e5de3e5a4f003f9a78"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "nonce upon a beat?!",
+    "category": "Crypto",
+    "slug": "crypto/nonce-upon-a-beat",
+    "author": "pavel",
+    "value": 300,
+    "type": "standard",
+    "solves": 1,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [
+      "challenge.py",
+      "output.txt",
+      "requirements.txt"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "requirements.txt",
+        "sha1sum": "0c90de976950ea1ab32610e2a785d69240247c91"
+      },
+      {
+        "file": "output.txt",
+        "sha1sum": "bdb60787e5eb643ae0164049f5b8e2ae6a97195e"
+      },
+      {
+        "file": "challenge.py",
+        "sha1sum": "f5ded0aeb2845ebaaa1a858b808e64a6d15f018e"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Layers",
+    "category": "Crypto",
+    "slug": "crypto/layers",
+    "author": "multiflora_rose",
+    "value": 400,
+    "type": "standard",
+    "solves": 1,
+    "rating_average": 9.0,
+    "rating_count": 1,
+    "files": [
+      "hidden_color.zip"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "hidden_color.zip",
+        "sha1sum": "83ddd164f7e83bb50cb1f7451f215f0afeb27403"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "birdpole",
+    "category": "Forensics",
+    "slug": "forensics/birdpole",
+    "author": "youstube",
+    "value": 500,
+    "type": "geo",
+    "solves": 7,
+    "rating_average": 9.5,
+    "rating_count": 6,
+    "files": [
+      "pole.jpg"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "pole.jpg",
+        "sha1sum": "c5e5669ec31d2f67ba43e73f4eeaf0c8d146c3c2"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Lightning McQueen!",
+    "category": "Forensics",
+    "slug": "forensics/lightning-mcqueen",
+    "author": "carz",
+    "value": 300,
+    "type": "standard",
+    "solves": 2,
+    "rating_average": 6.5,
+    "rating_count": 2,
+    "files": [
+      "holic.7z"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "holic.7z",
+        "sha1sum": "09d8add52eeb0f00f4cf6d20b6b6efc02c76498f"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "connected",
+    "category": "Forensics",
+    "slug": "forensics/connected",
+    "author": "Taokyle",
+    "value": 400,
+    "type": "standard",
+    "solves": 2,
+    "rating_average": 10.0,
+    "rating_count": 2,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 44,
+    "name": "flag to my ears",
+    "category": "Forensics",
+    "slug": "forensics/flag-to-my-ears",
+    "author": "youstube",
+    "value": 500,
+    "type": "standard",
+    "solves": 4,
+    "rating_average": 6.5,
+    "rating_count": 4,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 69,
+    "name": "marrow",
+    "category": "Forensics",
+    "slug": "forensics/marrow",
+    "author": "multiflora_rose",
+    "value": 100,
+    "type": "standard",
+    "solves": 2,
+    "rating_average": 10.0,
+    "rating_count": 2,
+    "files": [
+      "marrow.hash"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "marrow.hash",
+        "sha1sum": "357e360e6b45269a664b2f0627d57a89100813d9"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "nice day",
+    "category": "GEOINT",
+    "slug": "geoint/nice-day",
+    "author": "youstube",
+    "value": 300,
+    "type": "geo",
+    "solves": 9,
+    "rating_average": 7.62,
+    "rating_count": 8,
+    "files": [
+      "nice_day_innit.jpg"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "nice_day_innit.jpg",
+        "sha1sum": "f730348849f81c67b1f016555d5e8ea09afb6a4b"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "berry christmas!",
+    "category": "GEOINT",
+    "slug": "geoint/berry-christmas",
+    "author": "youstube",
+    "value": 200,
+    "type": "geo",
+    "solves": 10,
+    "rating_average": 5.22,
+    "rating_count": 9,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 23,
+    "name": "its a boat its a plane",
+    "category": "GEOINT",
+    "slug": "geoint/its-a-boat-its-a-plane",
+    "author": "Taokyle",
+    "value": 300,
+    "type": "geo",
+    "solves": 1,
+    "rating_average": 8.0,
+    "rating_count": 1,
+    "files": [
+      "w_h_a_t.png"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "w_h_a_t.png",
+        "sha1sum": "e650ccf58869c2542215c80dc41b74b85576b986"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "tired day",
+    "category": "GEOINT",
+    "slug": "geoint/tired-day",
+    "author": "carz",
+    "value": 500,
+    "type": "geo",
+    "solves": 2,
+    "rating_average": 9.0,
+    "rating_count": 1,
+    "files": [
+      "tired.jpeg"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "tired.jpeg",
+        "sha1sum": "141b5da6fa8818e6bbeadc5512dcae46a0376f32"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "our team base /j",
+    "category": "GEOINT",
+    "slug": "geoint/our-team-base-j",
+    "author": "youstube",
+    "value": 300,
+    "type": "geo",
+    "solves": 1,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [
+      "paranoma.jpg"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "paranoma.jpg",
+        "sha1sum": "00bc76b154b938b001d6bcbcb51ee0ff49e07bf8"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "WoW A Lambo",
+    "category": "GEOINT",
+    "slug": "geoint/wow-a-lambo",
+    "author": "xzhiyouu",
+    "value": 400,
+    "type": "geo",
+    "solves": 1,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [
+      "lambo.jpg"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "lambo.jpg",
+        "sha1sum": "25d0ac1d5235ccfd5b725c55c66b7e0b449b1c00"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "WoW A Porsche",
+    "category": "GEOINT",
+    "slug": "geoint/wow-a-porsche",
+    "author": "xzhiyouu",
+    "value": 200,
+    "type": "geo",
+    "solves": 7,
+    "rating_average": 7.25,
+    "rating_count": 4,
+    "files": [
+      "Porsche.jpg"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "Porsche.jpg",
+        "sha1sum": "f01dd8782bfd713b5005e26e019f9ddefd6dc9da"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "i have a friend",
+    "category": "GEOINT",
+    "slug": "geoint/i-have-a-friend",
+    "author": "j1mmy7351",
+    "value": 400,
+    "type": "geo",
+    "solves": 1,
+    "rating_average": 10.0,
+    "rating_count": 1,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 56,
+    "name": "Glass Skyscrapers",
+    "category": "GEOINT",
+    "slug": "geoint/glass-skyscrapers",
+    "author": "thomaswong123",
+    "value": 300,
+    "type": "geo",
+    "solves": 2,
+    "rating_average": 8.5,
+    "rating_count": 2,
+    "files": [
+      "glassbuildng.jpg",
+      "gpdhebtojkpgpdhebt.jpg"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "glassbuildng.jpg",
+        "sha1sum": "4446d365a92b24dbd4c4102972ef1f638fa515da"
+      },
+      {
+        "file": "gpdhebtojkpgpdhebt.jpg",
+        "sha1sum": "a88479eda45d75254626db879c3c82034b3316f5"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "bomb defuser",
+    "category": "Games",
+    "slug": "games/bomb-defuser",
+    "author": "youstube",
+    "value": 400,
+    "type": "standard",
+    "solves": 2,
+    "rating_average": 10.0,
+    "rating_count": 2,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 18,
+    "name": "crackhead",
+    "category": "Games",
+    "slug": "games/crackhead",
+    "author": "youstube",
+    "value": 500,
+    "type": "dynamic_docker",
+    "solves": 5,
+    "rating_average": 7.33,
+    "rating_count": 3,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 20,
+    "name": "MineCoords",
+    "category": "Games",
+    "slug": "games/minecoords",
+    "author": "Laggy",
+    "value": 500,
+    "type": "standard",
+    "solves": 1,
+    "rating_average": 10.0,
+    "rating_count": 1,
+    "files": [
+      "challenge.png"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "challenge.png",
+        "sha1sum": "8dc40b9efed1f8fcffa0ff2b2ba1cc69760a32b3"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "ForgeHolic",
+    "category": "Games",
+    "slug": "games/forgeholic",
+    "author": "xzhiyouu",
+    "value": 500,
+    "type": "standard",
+    "solves": 0,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 40,
+    "name": "CloneJutsu",
+    "category": "Games",
+    "slug": "games/clonejutsu",
+    "author": "youstube",
+    "value": 500,
+    "type": "dynamic_docker",
+    "solves": 2,
+    "rating_average": 10.0,
+    "rating_count": 2,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 71,
+    "name": "pathcraft",
+    "category": "Games",
+    "slug": "games/pathcraft",
+    "author": "youstube",
+    "value": 300,
+    "type": "standard",
+    "solves": 1,
+    "rating_average": 6.0,
+    "rating_count": 2,
+    "files": [
+      "chall1.png"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "chall1.png",
+        "sha1sum": "66678209128c3d72c41ddf138e39464050f42e3e"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "pathcraft 2",
+    "category": "Games",
+    "slug": "games/pathcraft-2",
+    "author": "youstube",
+    "value": 500,
+    "type": "standard",
+    "solves": 1,
+    "rating_average": 7.0,
+    "rating_count": 1,
+    "files": [
+      "chall2.png"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "chall2.png",
+        "sha1sum": "8adba2c84b9cecff59e7ef0fa0556cf33761ac33"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "quicktype",
+    "category": "Misc",
+    "slug": "misc/quicktype",
+    "author": "youstube",
+    "value": 200,
+    "type": "standard",
+    "solves": 8,
+    "rating_average": 7.33,
+    "rating_count": 6,
+    "files": [
+      "ramble.txt"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "ramble.txt",
+        "sha1sum": "8261d597ffa23c2190d1c15e8104cc83a9b8fea8"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "SO EZ JAIL",
+    "category": "Misc",
+    "slug": "misc/so-ez-jail",
+    "author": "xzhiyouu",
+    "value": 300,
+    "type": "standard",
+    "solves": 9,
+    "rating_average": 8.57,
+    "rating_count": 7,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 24,
+    "name": "Open my Gate",
+    "category": "Misc",
+    "slug": "misc/open-my-gate",
+    "author": "Taokyle",
+    "value": 400,
+    "type": "dynamic_docker",
+    "solves": 1,
+    "rating_average": 3.0,
+    "rating_count": 1,
+    "files": [
+      "OMG.zip"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "OMG-2.zip",
+        "sha1sum": "593a33678108d2fdbdcc3d277a91cd20d38b17a8"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "OpenMyFlagGate",
+    "category": "Misc",
+    "slug": "misc/openmyflaggate",
+    "author": "Taokyle",
+    "value": 400,
+    "type": "dynamic_docker",
+    "solves": 2,
+    "rating_average": 10.0,
+    "rating_count": 1,
+    "files": [
+      "handout.zip"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "handout-2.zip",
+        "sha1sum": "01e2011df4ba221c1fe0aad4e17bff67eb418ba3"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "SO UNEZ JAIL",
+    "category": "Misc",
+    "slug": "misc/so-unez-jail",
+    "author": "Taokyle",
+    "value": 100,
+    "type": "dynamic_docker",
+    "solves": 7,
+    "rating_average": 8.75,
+    "rating_count": 4,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 31,
+    "name": "REALLY SO UNEZ JAIL",
+    "category": "Misc",
+    "slug": "misc/really-so-unez-jail",
+    "author": "Taokyle",
+    "value": 400,
+    "type": "dynamic_docker",
+    "solves": 6,
+    "rating_average": 8.75,
+    "rating_count": 4,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 43,
+    "name": "1000 ciphers",
+    "category": "Misc",
+    "slug": "misc/1000-ciphers",
+    "author": "Laggy",
+    "value": 400,
+    "type": "standard",
+    "solves": 6,
+    "rating_average": 8.0,
+    "rating_count": 4,
+    "files": [
+      "encrypted.bin"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "encrypted.bin",
+        "sha1sum": "fe56213f4306db96bd67c98556d99274f6a10b73"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "GPT-6.7 Sol",
+    "category": "Misc",
+    "slug": "misc/gpt-6-7-sol",
+    "author": "xzhiyouu",
+    "value": 300,
+    "type": "standard",
+    "solves": 3,
+    "rating_average": 9.5,
+    "rating_count": 2,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 58,
+    "name": "One Line",
+    "category": "Misc",
+    "slug": "misc/one-line",
+    "author": "xzhiyouu",
+    "value": 200,
+    "type": "dynamic_docker",
+    "solves": 6,
+    "rating_average": 8.2,
+    "rating_count": 5,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 63,
+    "name": "rrrollback",
+    "category": "Misc",
+    "slug": "misc/rrrollback",
+    "author": "pavel",
+    "value": 400,
+    "type": "standard",
+    "solves": 4,
+    "rating_average": 8.0,
+    "rating_count": 3,
+    "files": [
+      "rrrollback.zip"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "rrrollback.zip",
+        "sha1sum": "0cfa68711cbda1a76741cd9cf3a228eeb54a6c21"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Qr cake",
+    "category": "Misc",
+    "slug": "misc/qr-cake",
+    "author": "b34rn00b",
+    "value": 200,
+    "type": "standard",
+    "solves": 5,
+    "rating_average": 8.6,
+    "rating_count": 5,
+    "files": [
+      "pieces.zip"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "pieces.zip",
+        "sha1sum": "f9d5c547404052a4a4981facb3dfd1ccaf661769"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "ez_chall_for_relax",
+    "category": "Misc",
+    "slug": "misc/ez-chall-for-relax",
+    "author": "multiflora_rose",
+    "value": 100,
+    "type": "standard",
+    "solves": 1,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [
+      "challenge.txt"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "challenge.txt",
+        "sha1sum": "1d69af0e82aa7a1256f4033793e10403638508c0"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Guess The Flag (Real One)",
+    "category": "Misc",
+    "slug": "misc/guess-the-flag-real-one",
+    "author": "xzhiyouu",
+    "value": 100,
+    "type": "standard",
+    "solves": 5,
+    "rating_average": 5.6,
+    "rating_count": 5,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 70,
+    "name": "Hack the game in roblox",
+    "category": "Misc",
+    "slug": "misc/hack-the-game-in-roblox",
+    "author": "b34rn00b",
+    "value": 300,
+    "type": "standard",
+    "solves": 0,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 19,
+    "name": "faked",
+    "category": "NSFW",
+    "slug": "nsfw/faked",
+    "author": "youstube",
+    "value": 500,
+    "type": "standard",
+    "solves": 2,
+    "rating_average": 6.0,
+    "rating_count": 2,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 26,
+    "name": "temu onlyfans",
+    "category": "NSFW",
+    "slug": "nsfw/temu-onlyfans",
+    "author": "youstube",
+    "value": 300,
+    "type": "standard",
+    "solves": 5,
+    "rating_average": 9.0,
+    "rating_count": 2,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 27,
+    "name": "law > morality",
+    "category": "NSFW",
+    "slug": "nsfw/law-morality",
+    "author": "youstube",
+    "value": 400,
+    "type": "standard",
+    "solves": 5,
+    "rating_average": 9.5,
+    "rating_count": 4,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 41,
+    "name": "Claude Code v67",
+    "category": "Reverse",
+    "slug": "reverse/claude-code-v67",
+    "author": "SISUBENY_",
+    "value": 500,
+    "type": "standard",
+    "solves": 2,
+    "rating_average": 9.0,
+    "rating_count": 2,
+    "files": [
+      "claude-code.js"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "claude-code.js",
+        "sha1sum": "705a696b24219a01cd8544113c12973318c5292a"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Entropy",
+    "category": "Reverse",
+    "slug": "reverse/entropy",
+    "author": "Laggy",
+    "value": 500,
+    "type": "standard",
+    "solves": 0,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [
+      "randomness"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "randomness",
+        "sha1sum": "73de8f30c7367c6fcc5be30538415d574f3a2e07"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "base67",
+    "category": "Reverse",
+    "slug": "reverse/base67",
+    "author": "multiflora_rose",
+    "value": 100,
+    "type": "standard",
+    "solves": 4,
+    "rating_average": 9.5,
+    "rating_count": 4,
+    "files": [
+      "base67"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "base67",
+        "sha1sum": "01747aac8d9e8a160dc9924589d28a8f85d44a74"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "weird view",
+    "category": "SOCINT",
+    "slug": "socint/weird-view",
+    "author": "youstube",
+    "value": 100,
+    "type": "standard",
+    "solves": 11,
+    "rating_average": 6.55,
+    "rating_count": 11,
+    "files": [
+      "screenshot.png"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "screenshot.png",
+        "sha1sum": "1fbf9d401e4effd4b9ffb14c31a303bb6c04dcf3"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "(v)logger",
+    "category": "SOCINT",
+    "slug": "socint/v-logger",
+    "author": "youstube",
+    "value": 500,
+    "type": "standard",
+    "solves": 4,
+    "rating_average": 4.33,
+    "rating_count": 3,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 29,
+    "name": "an O(sint)G(sus)...",
+    "category": "SOCINT",
+    "slug": "socint/an-o-sint-g-sus",
+    "author": "youstube",
+    "value": 500,
+    "type": "standard",
+    "solves": 3,
+    "rating_average": 9.67,
+    "rating_count": 3,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 35,
+    "name": "www.flagaholic.xyz",
+    "category": "SOCINT",
+    "slug": "socint/www-flagaholic-xyz",
+    "author": "youstube",
+    "value": 200,
+    "type": "standard",
+    "solves": 5,
+    "rating_average": 8.25,
+    "rating_count": 4,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 50,
+    "name": "speedrun",
+    "category": "SOCINT",
+    "slug": "socint/speedrun",
+    "author": "youstube",
+    "value": 200,
+    "type": "standard",
+    "solves": 10,
+    "rating_average": 8.75,
+    "rating_count": 8,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 60,
+    "name": "awmc",
+    "category": "SOCINT",
+    "slug": "socint/awmc",
+    "author": "Taokyle",
+    "value": 400,
+    "type": "standard",
+    "solves": 1,
+    "rating_average": 8.0,
+    "rating_count": 1,
+    "files": [
+      "maimai.png"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "maimai.png",
+        "sha1sum": "df64463afd2a46c1830155bb29ed4fae52904880"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "pocketmeme",
+    "category": "Web",
+    "slug": "web/pocketmeme",
+    "author": "Taokyle",
+    "value": 500,
+    "type": "dynamic_docker",
+    "solves": 0,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 32,
+    "name": "déjà vu",
+    "category": "Web",
+    "slug": "web/d-j-vu",
+    "author": "xzhiyouu",
+    "value": 200,
+    "type": "standard",
+    "solves": 5,
+    "rating_average": 7.5,
+    "rating_count": 4,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 37,
+    "name": "holic shop",
+    "category": "Web",
+    "slug": "web/holic-shop",
+    "author": "Taokyle",
+    "value": 300,
+    "type": "dynamic_docker",
+    "solves": 4,
+    "rating_average": 9.5,
+    "rating_count": 2,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 39,
+    "name": "notekeep",
+    "category": "Web",
+    "slug": "web/notekeep",
+    "author": "Taokyle",
+    "value": 500,
+    "type": "dynamic_docker",
+    "solves": 0,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 45,
+    "name": "real holic shop",
+    "category": "Web",
+    "slug": "web/real-holic-shop",
+    "author": "Taokyle",
+    "value": 0,
+    "type": "standard",
+    "solves": 0,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 47,
+    "name": "holic shop (reseller)",
+    "category": "Web",
+    "slug": "web/holic-shop-reseller",
+    "author": "youstube",
+    "value": 500,
+    "type": "dynamic_docker",
+    "solves": 2,
+    "rating_average": 10.0,
+    "rating_count": 1,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 54,
+    "name": "Nice pre-vue",
+    "category": "Web",
+    "slug": "web/nice-pre-vue",
+    "author": "Taokyle",
+    "value": 100,
+    "type": "dynamic_docker",
+    "solves": 8,
+    "rating_average": 8.2,
+    "rating_count": 5,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 55,
+    "name": "Nice vue",
+    "category": "Web",
+    "slug": "web/nice-vue",
+    "author": "Taokyle",
+    "value": 500,
+    "type": "dynamic_docker",
+    "solves": 2,
+    "rating_average": 10.0,
+    "rating_count": 2,
+    "files": [
+      "handout.zip"
+    ],
+    "source_included": false,
+    "upload_notes": [
+      {
+        "file": "handout.zip",
+        "sha1sum": "6f26f349ffbe77f9f9e4d484aa313c56a13b5b40"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "♠ ♥ ♦ ♣",
+    "category": "Web",
+    "slug": "web/challenge",
+    "author": "xzhiyouu",
+    "value": 300,
+    "type": "standard",
+    "solves": 1,
+    "rating_average": 10.0,
+    "rating_count": 1,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  },
+  {
+    "id": 74,
+    "name": "noteaholic",
+    "category": "Web",
+    "slug": "web/noteaholic",
+    "author": "Taokyle",
+    "value": 400,
+    "type": "dynamic_docker",
+    "solves": 0,
+    "rating_average": null,
+    "rating_count": 0,
+    "files": [],
+    "source_included": false,
+    "upload_notes": []
+  }
+]
