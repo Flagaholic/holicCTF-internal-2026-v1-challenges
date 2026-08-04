@@ -22,7 +22,7 @@ Once again thank you for participating! Now you may go read the rules.
 
 Have fun and be a holic for flags!
 
-[flag redacted]
+holic{a_n3W_v4riaNCe_0f_cTFFffF}
 
 ## Flag hashes
 

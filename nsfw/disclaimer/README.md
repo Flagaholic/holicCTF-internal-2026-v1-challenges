@@ -19,7 +19,7 @@ This category **does not** contains any NSFW materials in the chall itself, but 
 
 Well, enjoy these low-quality, hopefully AI-preventable challenges! Feel free to write me a review if you solved any, or open a ticket if you want to check progress. GL&HF :>
 
-[flag redacted]
+holic{tHE_b4Dd3s7_C4t3g0ry_3v3r}
 
 ## Flag hashes
 
