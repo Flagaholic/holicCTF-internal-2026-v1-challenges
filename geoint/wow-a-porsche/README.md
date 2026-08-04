@@ -13,9 +13,14 @@
 WoW~ There is a Porsche. Where is it?  
 Find the **EXACT** place where the car is.
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `35.6725121144` |
+| Longitude | `139.7693716376` |
+| Tolerance radius | `4.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=35.6725121144&mlon=139.7693716376#map=18/35.6725121144/139.7693716376) |
 
 ## Files
 

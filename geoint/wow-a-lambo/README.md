@@ -12,9 +12,14 @@
 
 WoW~ There is a Lambo. Where is it?
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `35.5019611052` |
+| Longitude | `139.7671370208` |
+| Tolerance radius | `5.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=35.5019611052&mlon=139.7671370208#map=18/35.5019611052/139.7671370208) |
 
 ## Files
 

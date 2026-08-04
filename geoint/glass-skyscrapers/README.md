@@ -15,9 +15,14 @@ why are they everywhere... these boring skyscrapers
 and they are building more???  
 find where I took these bogos
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `53.7968968170` |
+| Longitude | `-1.5368256288` |
+| Tolerance radius | `20.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=53.7968968170&mlon=-1.5368256288#map=18/53.7968968170/-1.5368256288) |
 
 ## Files
 

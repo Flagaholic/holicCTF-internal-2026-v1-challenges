@@ -16,9 +16,14 @@ I met a friend on Discord through playing on the largest Minecraft server in Tai
 
 Look at his profile carefully! You'll figure out what to do after you find his account.
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `24.8012056288` |
+| Longitude | `120.9870980680` |
+| Tolerance radius | `20.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=24.8012056288&mlon=120.9870980680#map=18/24.8012056288/120.9870980680) |
 
 ## Reviews
 

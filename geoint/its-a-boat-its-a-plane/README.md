@@ -12,9 +12,14 @@
 
 time for some 1/10 rating geosint chall
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `22.2625803000` |
+| Longitude | `114.3593712000` |
+| Tolerance radius | `100.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=22.2625803000&mlon=114.3593712000#map=18/22.2625803000/114.3593712000) |
 
 ## Files
 

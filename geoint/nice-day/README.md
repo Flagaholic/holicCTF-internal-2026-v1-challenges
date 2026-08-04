@@ -12,9 +12,14 @@
 
 such a nice day innit?
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `22.3415903861` |
+| Longitude | `114.1946089702` |
+| Tolerance radius | `10.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=22.3415903861&mlon=114.1946089702#map=18/22.3415903861/114.1946089702) |
 
 ## Files
 

@@ -12,9 +12,14 @@
 
 soo tired, even my hands are shaking:/
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `22.3124532000` |
+| Longitude | `114.1776722000` |
+| Tolerance radius | `20.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=22.3124532000&mlon=114.1776722000#map=18/22.3124532000/114.1776722000) |
 
 ## Files
 

@@ -12,9 +12,14 @@
 
 this light pole has a bird on top. find the loc
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `22.4504950057` |
+| Longitude | `114.1671388462` |
+| Tolerance radius | `10.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=22.4504950057&mlon=114.1671388462#map=18/22.4504950057/114.1671388462) |
 
 ## Files
 

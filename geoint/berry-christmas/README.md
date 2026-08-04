@@ -12,9 +12,14 @@
 
 find where i was sitting in [this photo](https://www.instagram.com/p/CadmCk6PNKI/)
 
-## Flag hashes
+## Location
 
-No flag hash is available for this challenge type.
+| Field | Value |
+| --- | --- |
+| Latitude | `22.3573128937` |
+| Longitude | `114.1269858741` |
+| Tolerance radius | `15.00 m` |
+| OpenStreetMap | [Open location](https://www.openstreetmap.org/?mlat=22.3573128937&mlon=114.1269858741#map=18/22.3573128937/114.1269858741) |
 
 ## Reviews
 
