@@ -6,6 +6,7 @@
 | Author | pavel |
 | Stars | ★★★★★ |
 | Solves | 1 |
+| Rating | 9.0/10.0 (1 rating) |
 
 ## Description
 
@@ -21,6 +22,20 @@ Transport format:
 
 Connection:
 
+## Flag hashes
+
+| Type | Hash |
+| --- | --- |
+| md5 | `0e48dbcf2d4f8e54d2d4c033a9d5058b` |
+
 ## Files
 
 - [`dist/normalized_lies.tar.gz`](dist/normalized_lies.tar.gz)
+
+## Reviews
+
+Average rating: 9.0/10.0 (1 rating)
+
+| User | Rating | Review | Date |
+| --- | ---: | --- | --- |
+| xzhiyouu | 9/10 | (no written comment) | 2026-07-30 19:38:11 |

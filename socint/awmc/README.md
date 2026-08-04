@@ -6,6 +6,7 @@
 | Author | Taokyle |
 | Stars | ★★★★ |
 | Solves | 1 |
+| Rating | 8.0/10.0 (1 rating) |
 
 ## Description
 
@@ -28,6 +29,20 @@ Reason why I specify the format this clearly and that you shouldn't be able to e
 WARNING: that (not so) random maimai player is indeed a random stranger, do NOT dox him, do NOT harass him, you should NOT contact him. Once you find his discord server, do NOT harass anyone in there, do NOT cause chaos and/or ask for flag (tbh if u ask for flag to ppl there, you cant read :wilted-rose:)  
 If you did anything unethical, illegal, or causing troubles for others, I, this ctf and anyone else involved in this ctf, and the flagaholic team are NOT responsible for your behavior.
 
+## Flag hashes
+
+| Type | Hash |
+| --- | --- |
+| md5 | `948a2b3d8ba20bf7ab69131cc554b2ea` |
+
 ## Files
 
 - [`dist/maimai.png`](dist/maimai.png)
+
+## Reviews
+
+Average rating: 8.0/10.0 (1 rating)
+
+| User | Rating | Review | Date |
+| --- | ---: | --- | --- |
+| youstube | 8/10 | annoying | 2026-07-31 05:34:18 |

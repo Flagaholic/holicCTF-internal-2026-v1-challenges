@@ -6,6 +6,7 @@
 | Author | youstube |
 | Stars | ★★★ |
 | Solves | 1 |
+| Rating | 6.0/10.0 (2 ratings) |
 
 ## Description
 
@@ -18,6 +19,23 @@ Given this image and positions of the mobs, find me the path the creaking will t
 
 If the route starts on Smooth Sandstone, and the total cost of the path is 67.69, write your flag as `holic{SmoothSandstone_67.69}`, margin of error is ± 1.00.
 
+## Flag hashes
+
+| Type | Hash |
+| --- | --- |
+| md5 | `9cf03de47a726914188e18ff0d53c709` |
+| md5 | `a2daf1f810039ebb7c054a90096bd5ac` |
+| md5 | `a5cdf208f6d53a0f5adfb6fb692bade5` |
+
 ## Files
 
 - [`dist/chall1.png`](dist/chall1.png)
+
+## Reviews
+
+Average rating: 6.0/10.0 (2 ratings)
+
+| User | Rating | Review | Date |
+| --- | ---: | --- | --- |
+| thomaswong123 | 5/10 | i cant count :( | 2026-07-31 18:42:55 |
+| Laggy | 7/10 | (no written comment) | 2026-07-31 21:33:09 |

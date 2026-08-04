@@ -6,6 +6,7 @@
 | Author | youstube |
 | Stars | ★★★ |
 | Solves | 5 |
+| Rating | 9.0/10.0 (2 ratings) |
 
 ## Description
 
@@ -15,3 +16,18 @@ However, there's one particular fansite that got complains left right and center
 
 What's the previous and current page URL for this fansite?  
 eg. `holic{oldpage.com_newpage.com}`
+
+## Flag hashes
+
+| Type | Hash |
+| --- | --- |
+| md5 | `268b569fb70e7ee2861075a4d5553d9f` |
+
+## Reviews
+
+Average rating: 9.0/10.0 (2 ratings)
+
+| User | Rating | Review | Date |
+| --- | ---: | --- | --- |
+| xzhiyouu | 8/10 | (no written comment) | 2026-07-26 09:10:07 |
+| ziru | 10/10 | (no written comment) | 2026-07-26 11:22:33 |
