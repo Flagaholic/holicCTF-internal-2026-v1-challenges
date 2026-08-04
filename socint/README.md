@@ -2,9 +2,9 @@
 
 | Name | Author | Stars | Solves |
 | --- | --- | --- | ---: |
-| [(v)logger](v-logger/) | youstube | ★★★★★ | 4 |
-| [an O(sint)G(sus)...](an-o-sint-g-sus/) | youstube | ★★★★★ | 3 |
-| [awmc](awmc/) | Taokyle | ★★★★ | 1 |
+| [weird view](weird-view/) | youstube | ★ | 11 |
 | [www.flagaholic.xyz](www-flagaholic-xyz/) | youstube | ★★ | 5 |
 | [speedrun](speedrun/) | youstube | ★★ | 10 |
-| [weird view](weird-view/) | youstube | ★ | 11 |
+| [awmc](awmc/) | Taokyle | ★★★★ | 1 |
+| [(v)logger](v-logger/) | youstube | ★★★★★ | 4 |
+| [an O(sint)G(sus)...](an-o-sint-g-sus/) | youstube | ★★★★★ | 3 |
